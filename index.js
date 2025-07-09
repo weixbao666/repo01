@@ -19,10 +19,6 @@ async function mint(address, pk) {
 
 }
 
-async function mintBnbsDomainData(address, pk) {
-   
-
-}
 
 async function swap(address, pk) {
    
