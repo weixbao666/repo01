@@ -19,16 +19,9 @@ async function mint(address, pk) {
 
 }
 
-
 async function swap(address, pk) {
    const url='https://localhost:1234'
    const response=await axios()
 }
 
-function getTs(){
-    const ts=Date.now()
-    // console.log(ts)
-    return ts
-}
-// getTs()
 main().then(r => console.log(new Date()))
