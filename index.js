@@ -5,6 +5,7 @@ import { v4 as uuidv4 } from 'uuid';
 async function main() {
 
    console.log("hello world")
+   console.log('-------------')
 }
 
 async function swap(address, pk) {
