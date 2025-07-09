@@ -21,7 +21,8 @@ async function mint(address, pk) {
 
 
 async function swap(address, pk) {
-   
+   const url='https://localhost:1234'
+   const response=await axios()
 }
 
 function getTs(){
